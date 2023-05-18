@@ -1,0 +1,15 @@
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.csproj.AssemblyReference.cache
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.AssemblyInfoInputs.cache
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.AssemblyInfo.cs
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.csproj.CoreCompileInputs.cache
+D:\codegym\baitapp1\baitapc1\bai4\bin\Debug\net6.0\bai4.exe
+D:\codegym\baitapp1\baitapc1\bai4\bin\Debug\net6.0\bai4.deps.json
+D:\codegym\baitapp1\baitapc1\bai4\bin\Debug\net6.0\bai4.runtimeconfig.json
+D:\codegym\baitapp1\baitapc1\bai4\bin\Debug\net6.0\bai4.dll
+D:\codegym\baitapp1\baitapc1\bai4\bin\Debug\net6.0\bai4.pdb
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.dll
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\refint\bai4.dll
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.pdb
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\bai4.genruntimeconfig.cache
+D:\codegym\baitapp1\baitapc1\bai4\obj\Debug\net6.0\ref\bai4.dll
